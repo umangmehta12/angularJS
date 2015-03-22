@@ -1,5 +1,4 @@
-## BookHub in AngularJS for Houghton Mifflin Harcourt
-###------------------------------------------------------------
+## BookHub in angularJS for Houghton Mifflin Harcourt
 
 This is a Proof of concept based Single Page Application Developed.This application can do following things:
 * Displaying the Name and Author of Book from JSON objects
